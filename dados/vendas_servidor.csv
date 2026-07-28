@@ -1,0 +1,91 @@
+ID;Data;Cliente;Regiao;Produto;Quantidade;Valor
+1;2026-06-13;AlphaDados;Norte;Base de Dados;5;251.52
+2;2026-02-05;TechPorto;Norte;Base de Dados;2;571.21
+3;2026-01-09;AlphaDados;Norte;Backup Seguro;4;492.45
+4;2026-01-07;NorteLog;Centro;Base de Dados;7;228.91
+5;2026-05-31;Clínica Luz;Norte;API Dados;3;670.78
+6;2026-03-29;Clínica Luz;Centro;Backup Seguro;6;119.54
+7;2026-04-08;AlphaDados;Lisboa;API Dados;6;583.45
+8;2026-01-12;TechPorto;Alentejo;Suporte Técnico;2;925.13
+9;2026-04-07;AlphaDados;Algarve;Monitorização;6;559.05
+10;2026-06-30;AlphaDados;Norte;Base de Dados;4;740.09
+11;2026-01-21;DataBridge;Centro;API Dados;2;376.62
+12;2026-04-27;TechPorto;Lisboa;Backup Seguro;6;353.63
+13;2026-06-21;Clínica Luz;Norte;Suporte Técnico;3;519.08
+14;2026-03-04;BetaSoft;Alentejo;Licença Linux;5;940.31
+15;2026-06-13;TechPorto;Algarve;Backup Seguro;6;804.64
+16;2026-01-15;BetaSoft;Norte;API Dados;6;396.08
+17;2026-01-17;BetaSoft;Algarve;Base de Dados;6;221.68
+18;2026-05-08;Escola Digital;Alentejo;Backup Seguro;5;154.16
+19;2026-05-24;NorteLog;Lisboa;Base de Dados;7;855.49
+20;2026-04-13;Clínica Luz;Centro;Backup Seguro;8;109.09
+21;2026-01-13;DataBridge;Norte;Backup Seguro;3;757.67
+22;2026-04-19;NorteLog;Norte;Licença Linux;7;576.2
+23;2026-04-30;NorteLog;Lisboa;Suporte Técnico;1;654.26
+24;2026-01-30;TechPorto;Algarve;API Dados;5;735.95
+25;2026-03-29;AlphaDados;Lisboa;Licença Linux;3;444.69
+26;2026-03-09;NorteLog;Centro;Suporte Técnico;2;830.23
+27;2026-03-18;DataBridge;Algarve;Suporte Técnico;4;166.38
+28;2026-02-11;NorteLog;Algarve;Servidor Cloud;6;476.96
+29;2026-01-29;Clínica Luz;Lisboa;Backup Seguro;1;247.81
+30;2026-05-26;AlphaDados;Norte;Base de Dados;8;779.82
+31;2026-05-17;DataBridge;Centro;Backup Seguro;8;900.84
+32;2026-02-12;Clínica Luz;Algarve;API Dados;7;917.04
+33;2026-05-19;DataBridge;Centro;Base de Dados;5;394.07
+34;2026-06-21;TechPorto;Lisboa;Licença Linux;8;136.93
+35;2026-02-27;AlphaDados;Lisboa;Servidor Cloud;4;569.31
+36;2026-01-02;AlphaDados;Norte;Backup Seguro;2;862.51
+37;2026-03-26;AlphaDados;Algarve;Backup Seguro;5;643.8
+38;2026-02-24;NorteLog;Centro;Base de Dados;8;249.77
+39;2026-05-02;DataBridge;Alentejo;Backup Seguro;2;114.66
+40;2026-04-21;Clínica Luz;Alentejo;Licença Linux;8;824.05
+41;2026-01-14;TechPorto;Norte;Servidor Cloud;7;698.6
+42;2026-01-28;BetaSoft;Centro;Backup Seguro;8;154.67
+43;2026-02-16;Clínica Luz;Alentejo;Backup Seguro;2;434.9
+44;2026-05-21;AlphaDados;Norte;Base de Dados;1;921.32
+45;2026-03-02;BetaSoft;Alentejo;Licença Linux;8;222.72
+46;2026-04-13;AlphaDados;Centro;Licença Linux;1;936.41
+47;2026-03-09;DataBridge;Alentejo;Monitorização;7;669.35
+48;2026-05-23;TechPorto;Alentejo;Backup Seguro;4;299.45
+49;2026-01-15;NorteLog;Algarve;Servidor Cloud;6;77.88
+50;2026-05-30;Escola Digital;Algarve;API Dados;3;77.61
+51;2026-05-11;AlphaDados;Centro;Servidor Cloud;2;649.57
+52;2026-03-02;Escola Digital;Norte;Suporte Técnico;4;560.5
+53;2026-01-11;NorteLog;Norte;Licença Linux;6;889.6
+54;2026-02-22;TechPorto;Lisboa;Backup Seguro;5;391.1
+55;2026-06-21;TechPorto;Lisboa;Licença Linux;6;884.34
+56;2026-01-19;AlphaDados;Alentejo;Suporte Técnico;2;92.77
+57;2026-02-24;NorteLog;Lisboa;Backup Seguro;6;839.8
+58;2026-03-04;Clínica Luz;Lisboa;Backup Seguro;8;796.21
+59;2026-06-30;Clínica Luz;Algarve;API Dados;1;642.77
+60;2026-05-22;Clínica Luz;Norte;Backup Seguro;5;131.77
+61;2026-01-28;TechPorto;Algarve;Backup Seguro;5;285.62
+62;2026-02-23;TechPorto;Lisboa;Backup Seguro;5;492.5
+63;2026-03-06;DataBridge;Norte;Servidor Cloud;7;792.15
+64;2026-01-12;AlphaDados;Lisboa;API Dados;3;614.33
+65;2026-03-09;BetaSoft;Alentejo;Suporte Técnico;7;543.84
+66;2026-01-29;AlphaDados;Centro;Suporte Técnico;1;797.0
+67;2026-05-30;NorteLog;Centro;Licença Linux;3;63.69
+68;2026-04-04;DataBridge;Norte;Monitorização;4;655.91
+69;2026-06-20;AlphaDados;Lisboa;API Dados;7;925.8
+70;2026-02-09;BetaSoft;Centro;API Dados;3;840.31
+71;2026-01-07;BetaSoft;Lisboa;API Dados;7;767.07
+72;2026-03-05;Clínica Luz;Centro;API Dados;2;378.85
+73;2026-01-10;DataBridge;Alentejo;Backup Seguro;4;780.34
+74;2026-04-28;Clínica Luz;Lisboa;API Dados;4;231.2
+75;2026-06-18;BetaSoft;Alentejo;Monitorização;5;824.53
+76;2026-03-13;Clínica Luz;Algarve;Licença Linux;6;893.79
+77;2026-01-30;Clínica Luz;Centro;Suporte Técnico;5;60.39
+78;2026-06-02;Escola Digital;Lisboa;Base de Dados;6;428.66
+79;2026-05-11;AlphaDados;Alentejo;Suporte Técnico;4;260.62
+80;2026-04-22;AlphaDados;Algarve;API Dados;4;361.9
+81;2026-01-18;TechPorto;Lisboa;Suporte Técnico;6;638.63
+82;2026-02-01;TechPorto;Lisboa;Suporte Técnico;5;641.88
+83;2026-03-25;Escola Digital;Lisboa;Suporte Técnico;3;202.45
+84;2026-06-20;Escola Digital;Centro;Suporte Técnico;5;400.62
+85;2026-01-01;Clínica Luz;Lisboa;Backup Seguro;7;751.83
+86;2026-06-05;TechPorto;Lisboa;Licença Linux;8;434.0
+87;2026-02-24;NorteLog;Alentejo;API Dados;3;634.44
+88;2026-03-14;NorteLog;Algarve;Monitorização;2;782.04
+89;2026-03-02;TechPorto;Lisboa;Backup Seguro;4;161.3
+90;2026-01-12;BetaSoft;Alentejo;Suporte Técnico;2;446.26
