@@ -1,0 +1,40 @@
+name: Gerar Relatorio Vendas
+on:
+  workflow_dispatch:
+    push: 
+      paths:
+        - 'dados/**'
+        - 'scripts/**'
+        - '.github/workflows/gerar_relatorio.yml'
+
+jobs: 
+  processar_dados:
+    name: Processar Dados
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter ficheiros do repositorio
+        uses: actions/checkout@v6
+
+      - name: Mostrar a extrutura recebida
+        run:
+          pwd
+          whoami
+          ls -la
+          find . -maxdepth 3 -type f
+          maxdepth 3 -type f
+
+      - name: Consultar Sistema
+        run: bash scripts/consultar_sistema.sh
+
+      - name: Mostrar Relatorio no log
+        run: cat resultados/relatorio_vendas.txt
+        
+      - name: Guardar Relatorio e o log
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio_processamento
+          path:
+            resultados/relatorio_vendas.txt
+            logs/execucao.log
+          retention-days: 5 
