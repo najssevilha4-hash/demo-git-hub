@@ -37,4 +37,6 @@ jobs:
           path:
             resultados/relatorio_vendas.txt
             logs/execucao.log
+
+            
           retention-days: 5 
