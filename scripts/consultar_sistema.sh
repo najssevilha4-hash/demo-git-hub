@@ -1,0 +1,10 @@
+#!/bin/bash echo "======================================"
+
+echo "INFORMAÇÕES DO RUNNER"
+echo "======================================"
+echo "Utilizador: $(whoami)"
+echo "Nome do computador: $(hostname)"
+echo "Pasta atual: $(pwd)"
+echo "Data e hora: $(date)"
+echo "Sistema: $(uname -a)"
+echo "======================================"

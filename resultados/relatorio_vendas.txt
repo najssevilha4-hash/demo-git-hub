@@ -1,0 +1,16 @@
+Relatorio de vendas
+====================
+Data de execução: Wed Jul 29 14:51:59 HVGMT 2026
+Runner: DESKTOP-F1QEFGK
+Utilizador: jpr
+Ficheiro de dados: dados/vendas_servidor.csv
+total de linhas: 91
+total de registos: 90
+====================
+Primeiros 5 registos:
+ID;Data;Cliente;Regiao;Produto;Quantidade;Valor
+1;2026-06-13;AlphaDados;Norte;Base de Dados;5;251.52
+2;2026-02-05;TechPorto;Norte;Base de Dados;2;571.21
+3;2026-01-09;AlphaDados;Norte;Backup Seguro;4;492.45
+4;2026-01-07;NorteLog;Centro;Base de Dados;7;228.91
+5;2026-05-31;Clínica Luz;Norte;API Dados;3;670.78
